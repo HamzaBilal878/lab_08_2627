@@ -94,6 +94,10 @@ Once your app can filter the data:
 - [ ] Change your app so that the axes stay the same whatever is filtered. (Hint: see how the data explorer in the Week 8 notes fixes its axes. Here, the limits need to depend on the variables chosen.)
 
 ::: {.solution}
+```{r}
+read.csv("src/data/penguins.csv")
+```
+
 
 :::
 
